@@ -25,4 +25,4 @@ Side: This will hold a value that decides which side the name and image will be 
 
 ## Issues
 
-If you find any Bugs or need help setting the Plugin up, Please come Find me in Lab Sessions
+If you find any Bugs or need help setting the Plugin up, Please come Find me in Lab Sessions or Message Thomas Ealand on LinkedIn

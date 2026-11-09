@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Dialogue_System",
+	"Description": "A Designer Friendly Dialogue system",
+	"Category": "Other",
+	"CreatedBy": "Thomas Ealand",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true
+}
